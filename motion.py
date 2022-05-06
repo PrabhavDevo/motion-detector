@@ -50,5 +50,3 @@ while True:
 
 cam.release() #turn camera off
 cv.destroyAllWindows() #destroy any opened opencv window
-
-#MADE BY- PRABHAV
